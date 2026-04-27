@@ -115,6 +115,6 @@ Picket-Fence Model
 ~~~~~~~~~~~~~~~~~~
 The **Picket-Fence Model** is a special case of the Richardson-Gaudin model with equally spaced site energies and constant pairing interaction. 
 
-It can be implemented by setting :math:`\mu_p = (p - \frac{N-1}{2}) + G` and :math:`J_{pq}^{\text{eq}} = G`.
+It can be implemented by setting :math:`\mu_p = (p - \frac{N-1}{2}) + G` and :math:`J_{pp}^{\text{eq}} = G`.
 
 For a detailed walkthrough, see the :doc:`Picket-Fence Tutorial <examples/picket_fence>`.
